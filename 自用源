@@ -261,7 +261,7 @@
   ],
   "lives": [
     {
-      "name": "靠谱Live",
+      "name": "小三Live",
       "type": 0,
       "playerType": 1,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main/live.txt",
@@ -655,7 +655,7 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "wallpaper": "http://.love:63/ppic/feimao.php",
+  "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "warningText": "稳定",
-  "spider": "http://.love:63/Jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"
+  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"
 }
