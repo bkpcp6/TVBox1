@@ -18,16 +18,6 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
     {
-      "key": "荐片",
-      "name": "🎬┃速度不错┃影视",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
-      "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "磁力熊",
       "name": "🐻┃靠谱┃磁力",
       "type": 3,
