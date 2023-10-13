@@ -1,39 +1,11 @@
 {
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🐼┃豆瓣┃小三自用",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
       "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
-    },
-    {
-      "key": " 在线┃直播",
-      "name": "📺┃竞技┃直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "alist",
-      "name": "🍰┃小鸭┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.love:63/alist.json"
     },
     {
       "key": "荐片",
@@ -56,31 +28,6 @@
       "filterable": 1
     },
     {
-      "key": "素白",
-      "name": "🦢┃素白┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.肥猫.love:63/json/素白白.json"
-    },
-    {
-      "key": "虎虎",
-      "name": "🐯┃虎虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.肥猫.love:63/json/虎虎.json"
-    },
-    {
-      "key": "YQK_spider",
-      "name": "🙆┃一起┃电视",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://hk-api-cf.yqk5659.com"
-    },
-    {
       "key": "七七",
       "name": "🌈┃七七┃影视",
       "type": 3,
@@ -88,21 +35,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "⏮️┃低端┃影视",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "爱看Bot",
-      "name": "🏇┃爱看┃Bot",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/Bot.js"
     },
     {
       "key": "厂长",
@@ -135,28 +67,6 @@
       "filterable": 1
     },
     {
-      "key": "奇奇",
-      "name": "🐭┃奇奇┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": "2",
-      "ext": "https://ttsp.live/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "爱迪",
-      "name": "💡┃爱迪┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
       "key": "Kuaikan",
       "name": "👀┃快看┃影视",
       "type": 3,
@@ -164,67 +74,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "飞速",
-      "name": "🚄┃影探┃影视",
-      "type": 3,
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
-    },
-    {
-      "key": "辣辣",
-      "name": "🌶️┃辣辣┃影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "http://我不是.肥猫.love:63/Jar/5.jar;md5;c570b052645834a1109b54421c1552f9"
-    },
-    {
-      "key": "蘑菇",
-      "name": "🍄┃蘑菇┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/蘑菇.json"
-    },
-    {
-      "key": "csp_Lib",
-      "name": "💫┃Lib  ┃影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "https://www.libvio.fun/"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🏝┃Aue ┃影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "鸭鸭",
-      "name": "🦆┃鸭鸭┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
       "key": "drpy_js_奇珍异兽",
@@ -241,16 +90,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_SP360",
-      "name": "📺┃360┃官源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/360影视.json"
     },
     {
       "key": "MGT",
@@ -290,26 +129,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_XBiuCOKEMV",
-      "name": "🍬┃可乐┃影视",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_search_七夜",
-      "name": "👴┃七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
       "key": "csp_search_PanSearch",
       "name": "🗂️┃盘搜┃搜索",
       "type": 3,
@@ -318,77 +137,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_search_Yisou",
-      "name": "🐏┃易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_search_Zhaozy",
-      "name": "🐑┃资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
-    },
-    {
-      "key": "csp_search_Upyunso",
-      "name": "🐐┃云搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_search_Alips",
-      "name": "🦌┃盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
-      "key": "csp_BBB",
-      "name": "🅱┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "ext": "http://我不是.肥猫.love:63/json/bili.json"
-    },
-    {
-      "key": "csp_戏曲",
-      "name": "🅱┃哔哩┃戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "ext": "http://我不是.肥猫.love:63/json/戏曲.json"
-    },
-    {
-      "key": "演唱会",
-      "name": "🅱┃哔哩┃音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "http://我不是.肥猫.love:63/json/ych.json"
     },
     {
       "key": "js虎牙",
@@ -462,42 +210,6 @@
       "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
     },
     {
-      "key": "csp_Nbys",
-      "name": "✈┃泥巴┃墙外",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_trj",
-      "name": "✈┃唐人┃墙外",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_If101",
-      "name": "✈┃If10 ┃墙外",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Xiaoh",
-      "name": "✈┃小宝┃墙外",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "儿童",
       "name": "📚┃少儿┃教育",
       "type": 3,
@@ -550,7 +262,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "关注公众号“肥猫不肥”",
+      "name": "关注公众号“不靠谱测评”",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
@@ -953,6 +665,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
-  "warningText": "接口完全免费，切勿付费购买。",
+  "warningText": "稳定",
   "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"
 }
