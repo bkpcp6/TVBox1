@@ -18,7 +18,17 @@
       "api": "csp_XBPQ",
       "ext": "http://我不是.肥猫.love:63/json/素白白.json"
     },   
-    {"key":"csp_xbb_555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXB/555电影.json"},
+    {
+      "key":"csp_555",
+      "name":"5️⃣555影视〔SP〕",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/推荐包/555.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.jar"
+    },
     {
       "key": "七七",
       "name": "🌈┃速度尚可┃影视",
