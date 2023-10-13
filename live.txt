@@ -1,6 +1,4 @@
 🗻央视频道,#genre#
-凤凰中文,https://php.61073736.repl.co/sxg.php?id=test1_4000
-凤凰资讯,https://php.61073736.repl.co/sxg.php?id=test2_4000
 CCTV1综合,https://php.61073736.repl.co/sxg.php?id=CCTV-1H265_4000
 CCTV2财经,https://php.61073736.repl.co/sxg.php?id=CCTV-2H265_4000
 CCTV3综艺,https://php.61073736.repl.co/sxg.php?id=CCTV-3H265_4000
