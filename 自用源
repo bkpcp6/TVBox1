@@ -7,9 +7,19 @@
       "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
     },
+   {
+      "key": "csp_FanYY",
+      "name": "🧸┃4K┃影视",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+    },
     {
       "key": "荐片",
-      "name": "🎬┃荐片┃影视",
+      "name": "🎬┃速度不错┃影视",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
@@ -19,7 +29,7 @@
     },
     {
       "key": "磁力熊",
-      "name": "🐻┃熊熊┃磁力",
+      "name": "🐻┃靠谱┃磁力",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.love:63/磁力熊.js",
@@ -29,7 +39,7 @@
     },
     {
       "key": "七七",
-      "name": "🌈┃七七┃影视",
+      "name": "🌈┃速度尚可┃影视",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -38,7 +48,7 @@
     },
     {
       "key": "厂长",
-      "name": "🏭┃厂长┃影视",
+      "name": "🏭┃表哥┃影视",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -48,18 +58,8 @@
       "ext": "https://cz01.me/"
     },
     {
-      "key": "csp_FanYY",
-      "name": "🧸┃玩偶┃影视",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
-    },
-    {
       "key": "csp_AppMr",
-      "name": "👻┃明明┃影视",
+      "name": "👻┃表弟┃影视",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "👀┃快看┃影视",
+      "name": "👀┃表妹┃影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -77,14 +77,14 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "🐨┃爱奇┃官源",
+      "name": "🐨┃爱奇┃",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
     },
     {
       "key": "Qtv",
-      "name": "🐧┃企鹅┃官源",
+      "name": "🐧┃企鹅┃",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -93,7 +93,7 @@
     },
     {
       "key": "MGT",
-      "name": "🍋┃芒果┃官源",
+      "name": "🍋┃芒果┃",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
