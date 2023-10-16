@@ -13,12 +13,12 @@
       ]
     }
   ],
-  "warningText": "不要相信视频中的任何广告",
+  "warningText": "接口由公众号【云星日记】免费提供",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "导航",
+      "name": "🐼豆瓣推荐 |Q群：582874559",
       "type": 3,
       "api": "http://itvbox.cc/sft/lib/drpy2.min.js",
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"
@@ -781,6 +781,24 @@
       "jar": "http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65",
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
     },
+    {
+      "key": "说明",
+      "name": "公众号：云星日记",
+      "type": 3,
+      "api": "360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "说明2",
+      "name": "提供免费维护",
+      "type": 3,
+      "api": "360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
   ],
   "parses": [
     {
