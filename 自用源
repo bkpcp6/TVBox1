@@ -86,23 +86,15 @@
       "filterable": 1,
       "ext": "https://www.ysgc.fun"
     },
-    {
-      "key": "csp_Ying",
-      "name": "🌸┃樱花┃动漫",
+     {
+      "key": "csp_动漫巴士",
+      "name": "动漫",
       "type": 3,
-      "api": "csp_Ying",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "┃日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/动漫巴士.json"
     },
     {
       "key": "csp_search_PanSearch",
