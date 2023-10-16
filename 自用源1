@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕中秋团圆夜 明月照福缘",
+      "name": "导航",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -654,15 +654,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"
-    },
-    {
-      "key": "ext_live_protocol",
-      "name": "导航 http://饭太硬.top",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "cc",
