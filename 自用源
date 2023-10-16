@@ -10,6 +10,19 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
+{
+      "key": "csp_WoGG",
+      "name": "4K┃首选",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
+        "filter": "https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"
+      },
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;0B73C7B2751828AED9D97D56126CC0EC"
+    },
    {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"ext": "https://www.cz0101.com/","filterable": 1},
    {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.cz01.pro/"},  
    {
