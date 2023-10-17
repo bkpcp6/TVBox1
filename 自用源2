@@ -13,12 +13,12 @@
       ]
     }
   ],
-  "warningText": "接口由公众号【云星日记】免费提供",
+  "warningText": "欢迎您",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🐼豆瓣推荐 |Q群：582874559",
+      "name": "导航",
       "type": 3,
       "api": "http://itvbox.cc/sft/lib/drpy2.min.js",
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/douban.js"
