@@ -1,6 +1,6 @@
 {
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "稳定",
   "sites": [
     {
       "key": "豆豆",
@@ -13,7 +13,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
+      "name": "4K┃首选",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
