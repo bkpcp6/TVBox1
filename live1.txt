@@ -15,10 +15,9 @@ CCTV-12社会与法,https://cntv.sbs/tv?auth=231013&id=cctv12
 CCTV-13新闻,https://cntv.sbs/tv?auth=231013&id=cctv13
 CCTV-14少儿,https://cntv.sbs/tv?auth=231013&id=cctv14
 CCTV-15音乐,https://cntv.sbs/tv?auth=231013&id=cctv15
-CCTV-16奥林匹克,https://cntv.sbs/tv?auth=231013&id=cctv16
+CCTV-16奥林匹克,https://cntv.sbs/tv?auth=231013&id=cctv164k
 CCTV-17农业农村,https://cntv.sbs/tv?auth=231013&id=cctv17
 CCTV-4K超高清,https://cntv.sbs/tv?auth=231013&id=cctv4k
-CCTV-164K,https://cntv.sbs/tv?auth=231013&id=cctv164k
 
 CCTV-1综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
