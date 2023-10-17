@@ -184,7 +184,7 @@
     },
     {
       "key": "ext_live_protocol",
-      "name": "关注公众号“不靠谱测评”",
+      "name": "不要相信任何广告",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
@@ -195,7 +195,7 @@
       "name": "Live",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main/live.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main/live1.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -447,7 +447,7 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
-  "warningText": "接口完全免费，切勿付费购买。",
-  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
+  "wallpaper": "http://.love:63/ppic/feimao.php",
+  "warningText": "稳定",
+  "spider": "http://.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
 }
