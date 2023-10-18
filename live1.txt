@@ -152,3 +152,4 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 梨园频道,https://pi.0472.org/tv/ly.php?auth=231013
 翡翠台,http://113.117.74.19:8081/hls/67/index.m3u8
 翡翠台1,http://r.jdshipin.com/n90gt
+香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
