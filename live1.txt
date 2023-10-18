@@ -122,9 +122,8 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 
 其它频道,#genre#
-中国教育1台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
-中国教育2台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
-中国教育4台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
+中国教育-1,https://php.61073736.repl.co/bestv.php?id=zgjy1t8m/8000000
+中国教育-4,https://php.61073736.repl.co/bestv.php?id=zgjy4hd8m/8000000
 北京纪实科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
 卡酷少儿,https://php.61073736.repl.co/bestv.php?id=kkse8m/8000000
 北京纪实科教,https://cntv.sbs/tv?auth=231013&id=bjjskj
