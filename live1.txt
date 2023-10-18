@@ -150,4 +150,4 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
 中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
 梨园频道,https://pi.0472.org/tv/ly.php?auth=231013
-香港卫视,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
