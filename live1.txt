@@ -122,7 +122,6 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 
 其它频道,#genre#
-
 中国教育1台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 中国教育2台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 中国教育4台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
@@ -151,3 +150,4 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
 中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
 梨园频道,https://pi.0472.org/tv/ly.php?auth=231013
+香港卫视,https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
