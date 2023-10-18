@@ -87,7 +87,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"Dy555","name":"片多备用","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/555电影.js"},
+{"key":"drpy_js_555影视","name":"片多备用","type": 3,"api": "./JS/lib/drpy1.min.js","ext": "./JS/js/555电影.js"},
     {
       "key": "csp_动漫巴士",
       "name": "动漫",
