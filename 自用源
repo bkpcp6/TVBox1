@@ -60,13 +60,14 @@
       "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
     },
     {
-      "key": "Qtv",
+      "key": "csp_QQ",
       "name": "🐧┃企鹅┃",
       "type": 3,
-      "api": "csp_Qtv",
+      "api": "csp_QQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"
     },
  {
       "key": "js_优酷",
