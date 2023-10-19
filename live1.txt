@@ -149,6 +149,8 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 财富天下,https://cntv.sbs/tv?auth=231013&id=cftx
 中国天气,https://cntv.sbs/tv?auth=231013&id=zgtq
 凤凰中文台,http://61.170.84.254/qctv.fengshows.cn/live/0701phk72-1697532506.ts?txspiseq=107232682176004722295
+凤凰台咨询,http://61.170.84.254/qctv.fengshows.cn/live/0701phk72-1697532507.ts?txspiseq=107232682176004722295
+凤凰香港台,http://61.170.84.254/qctv.fengshows.cn/live/0701phk72-1697532508.ts?txspiseq=107232682176004722295
 翡翠台,https://pi.0472.org/tv/fct.php?auth=231013
 明珠台,https://pi.0472.org/tv/mzt.php?auth=231013
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
