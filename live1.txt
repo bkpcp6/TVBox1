@@ -159,4 +159,3 @@ CETV4,https://cntv.sbs/tv?auth=231013&id=cetv4
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 莲花卫视,https://cntv.sbs/tv/lhws.php
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-测速,http://php.17186.eu.org/phtv/fhxg.m3u8
