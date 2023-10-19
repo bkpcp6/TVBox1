@@ -385,7 +385,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main/live1.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
