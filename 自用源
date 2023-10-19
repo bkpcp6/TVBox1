@@ -52,14 +52,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"csp_xBPQ_555电影","name":"片多备用","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./xBPQ/555电影.json"},
-{
-      "key": "drpy_js_独播库",
-      "name": "️💢独播库(XB）",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js"
-    },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🐨┃爱奇┃",
