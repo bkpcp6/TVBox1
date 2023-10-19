@@ -46,6 +46,7 @@
       "changeable": 1,
       "ext": "https://cz01.pw/"
     },
+{"key": "磁力","name": "1080P┃首选2","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
     {
       "key": "Mino",
       "name": "1080P┃备选",
