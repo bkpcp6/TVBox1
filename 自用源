@@ -191,7 +191,7 @@
       "name": "Live",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main//live1.txt",
+      "url": "https://gitee.com/bkpcp6/168/raw/main/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
