@@ -146,11 +146,6 @@
   ],
   "parses": [
     {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
       "name": "聚合0",
       "type": 3,
       "url": "Web"
