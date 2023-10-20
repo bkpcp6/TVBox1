@@ -2,7 +2,7 @@
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338",
   "wallpaper": "稳定",
   "sites": [
-    {
+   {
       "key": "csp_FanYY",
       "name": "4K┃首选",
       "type": 3,
@@ -12,18 +12,8 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
-    {
-      "key": "Czsapp",
-      "name": "1080P┃首选1",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy88.com/"
-    },
-{"key": "磁力","name": "1080P┃首选2","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
+    {"key": "csp_Czsapp", "name": "厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy88.com/","filterable": 1},
+    {"key": "磁力","name": "1080P┃首选2","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
     {
       "key": "Mino",
       "name": "1080P┃备选",
