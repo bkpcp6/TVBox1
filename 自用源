@@ -86,7 +86,7 @@
     },
     {
       "key": "csp_search_PanSearch",
-      "name": "🗂️┃盘搜┃搜索",
+      "name": "4K┃备选",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
