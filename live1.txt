@@ -1,24 +1,51 @@
 央视频道,#genre#
-CCTV-1 综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
-CCTV-2 财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
-CCTV-3 综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
-CCTV-4 中文国际,https://cntv.sbs/tv?auth=2310201855&id=cctv4
-CCTV-5 体育,https://cntv.sbs/tv?auth=2310201855&id=cctv5
-CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
-CCTV-6 电影,https://cntv.sbs/tv?auth=2310201855&id=cctv6
-CCTV-7 国防军事,https://cntv.sbs/tv?auth=2310201855&id=cctv7
-CCTV-8 电视剧,https://cntv.sbs/tv?auth=2310201855&id=cctv8
-CCTV-9 纪录,https://cntv.sbs/tv?auth=2310201855&id=cctv9
-CCTV-10 科教,https://cntv.sbs/tv?auth=2310201855&id=cctv10
-CCTV-11 戏曲,https://cntv.sbs/tv?auth=2310201855&id=cctv11
-CCTV-12 社会与法,https://cntv.sbs/tv?auth=2310201855&id=cctv12
-CCTV-13 新闻,https://cntv.sbs/tv?auth=2310201855&id=cctv13
-CCTV-14 少儿,https://cntv.sbs/tv?auth=2310201855&id=cctv14
-CCTV-15 音乐,https://cntv.sbs/tv?auth=2310201855&id=cctv15
-CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=2310201855&id=cctv16
-CCTV-17 农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
-CCTV-4K 超高清,https://cntv.sbs/tv?auth=2310201855&id=cctv4k
-CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
+CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV-3综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV-4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV-5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV-5+体育赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-6电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV-7国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV-8电视剧,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV-9纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV-9纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV-10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV-11戏曲,https://cntv.sbs/tv?auth=2310201855&id=cctv11
+CCTV-12社会与法,https://cntv.sbs/tv?auth=2310201855&id=cctv12
+CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV-14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV-17农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
+CCTV4K,https://php.61073736.repl.co/bestv.php?id=cctv4k/15000000
+欢笑剧场,https://php.61073736.repl.co/bestv.php?id=hxjc4k/15000000
+
+
+CCTV-1综合,https://cntv.sbs/tv?auth=2310201855&id=cctv1
+CCTV-2财经,https://cntv.sbs/tv?auth=2310201855&id=cctv2
+CCTV-3综艺,https://cntv.sbs/tv?auth=2310201855&id=cctv3
+CCTV-4中文国际,https://cntv.sbs/tv?auth=2310201855&id=cctv4
+CCTV-5体育,https://cntv.sbs/tv?auth=2310201855&id=cctv5
+CCTV-5+体育赛事,https://cntv.sbs/tv?auth=2310201855&id=cctv5p
+CCTV-6电影,https://cntv.sbs/tv?auth=2310201855&id=cctv6
+CCTV-7国防军事,https://cntv.sbs/tv?auth=2310201855&id=cctv7
+CCTV-8电视剧,https://cntv.sbs/tv?auth=2310201855&id=cctv8
+CCTV-9纪录,https://cntv.sbs/tv?auth=2310201855&id=cctv9
+CCTV-10科教,https://cntv.sbs/tv?auth=2310201855&id=cctv10
+CCTV-11戏曲,https://cntv.sbs/tv?auth=2310201855&id=cctv11
+CCTV-12社会与法,https://cntv.sbs/tv?auth=2310201855&id=cctv12
+CCTV-13新闻,https://cntv.sbs/tv?auth=2310201855&id=cctv13
+CCTV-14少儿,https://cntv.sbs/tv?auth=2310201855&id=cctv14
+CCTV-15音乐,https://cntv.sbs/tv?auth=2310201855&id=cctv15
+CCTV-16奥林匹克,https://cntv.sbs/tv?auth=2310201855&id=cctv16
+CCTV-17农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
+
 
 卫视频道,#genre#
 北京卫视,https://cntv.sbs/tv?auth=2310201855&id=bjws
@@ -162,3 +189,44 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 莲花卫视,https://cntv.sbs/tv/lhws.php
+
+
+
+堆堆港剧,#genre#
+封神榜,https://php.61073736.repl.co/huya.php?id=23749096
+天地争霸美猴王,https://php.61073736.repl.co/huya.php?id=23735126
+楚汉骄雄,https://php.61073736.repl.co/huya.php?id=23740156
+西游记,https://php.61073736.repl.co/huya.php?id=23728660
+鹿鼎记1998,https://php.61073736.repl.co/huya.php?id=23865080
+法证先锋3,https://php.61073736.repl.co/huya.php?id=23863804
+寻秦记,https://php.61073736.repl.co/huya.php?id=23864973
+埋堆堆08,https://php.61073736.repl.co/huya.php?id=23734169
+神雕侠侣,https://php.61073736.repl.co/huya.php?id=23865171
+洗冤录,https://php.61073736.repl.co/huya.php?id=23903130
+陀枪师姐,https://php.61073736.repl.co/huya.php?id=23860039
+笑傲江湖,https://php.61073736.repl.co/huya.php?id=23865142
+天龙八部,https://php.61073736.repl.co/huya.php?id=23903123
+鹿鼎记1984,https://php.61073736.repl.co/huya.php?id=23734183
+使徒行者,https://php.61073736.repl.co/huya.php?id=23734256
+埋堆堆16,https://php.61073736.repl.co/huya.php?id=23903183
+扫黄先锋,https://php.61073736.repl.co/huya.php?id=23903196
+埋堆堆18,https://php.61073736.repl.co/huya.php?id=23829543
+大唐双龙传,https://php.61073736.repl.co/huya.php?id=23728674
+金枝欲孽,https://php.61073736.repl.co/huya.php?id=23865036
+创世纪,https://php.61073736.repl.co/huya.php?id=23749083
+埋堆堆22,https://php.61073736.repl.co/huya.php?id=23865164
+埋堆堆23,https://php.61073736.repl.co/huya.php?id=23863818
+埋堆堆24,https://php.61073736.repl.co/huya.php?id=23865058
+埋堆堆25,https://php.61073736.repl.co/huya.php?id=23860049
+倚天屠龙记,https://php.61073736.repl.co/huya.php?id=23734246
+大时代,https://php.61073736.repl.co/huya.php?id=23865161
+埋堆堆28,https://php.61073736.repl.co/huya.php?id=23746486
+埋堆堆29,https://php.61073736.repl.co/huya.php?id=23829447
+埋堆堆30,https://php.61073736.repl.co/huya.php?id=23863778
+埋堆堆31,https://php.61073736.repl.co/huya.php?id=23734176
+埋堆堆32,https://php.61073736.repl.co/huya.php?id=23863796
+埋堆堆33,https://php.61073736.repl.co/huya.php?id=23734211
+埋堆堆34,https://php.61073736.repl.co/huya.php?id=23865179
+埋堆堆35,https://php.61073736.repl.co/huya.php?id=23749068
+埋堆堆36,https://php.61073736.repl.co/huya.php?id=23863787
+埋堆堆37,https://php.61073736.repl.co/huya.php?id=23824164
