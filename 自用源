@@ -23,7 +23,7 @@
    {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
    {
       "key": "YQK_spider",
-      "name": 1080P┃首选2",
+      "name": "1080P┃首选2",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
