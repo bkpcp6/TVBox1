@@ -31,6 +31,13 @@
       "filterable": 1
     },
    {
+      "key": "drpy_js_子子影视",
+      "name": "1080P┃首选3",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main/JS/lib/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main/JS/js/子子影视.js"
+    },
+   {
       "key": "素白",
       "name": "1080P┃备选",
       "type": 3,
