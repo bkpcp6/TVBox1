@@ -83,6 +83,7 @@ CCTV-17农业农村,https://cntv.sbs/tv?auth=2310201855&id=cctv17
 兵团卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001066/index.m3u8?
 厦门卫视,http://live.cooltv.top/tv/aishang.php?id=xmws
 
+
 其它频道,#genre#
 看天下精选,https://cntv.sbs/tv?auth=2310201855&id=ktxjx
 华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
