@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/bkpcp6/168/raw/main/token.txt"
+      "ext": "https://gitee.com/bkpcp6/168/raw/main/token.txt$$$https://wogg.xyz/"
     },
     {"key": "csp_Czsapp", "name": "1080P┃首选","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy88.com/","filterable": 1},
     {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
