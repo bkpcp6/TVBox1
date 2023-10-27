@@ -21,6 +21,13 @@
       "filterable": 1,
       "ext": "./token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     }, 
+{
+      "key": "drpy_js_独播库",
+      "name": "️💢独播库(XB）",
+      "type": 3,
+      "api": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JAR/XB包jar/独播库.min.js",
+      "ext": "https://raw.iqiq.io/xianyuyimu/TVBOX-/main/一木源/JSON/XB包/独播库.js"
+    },
     {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
     {
       "key": "drpy_js_子子影视",
