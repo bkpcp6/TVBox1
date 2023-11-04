@@ -397,7 +397,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/bkpcp6/TVBox1/main/live2.txt",
+      "url": "https://cdn.jsdelivr.net/gh/bkpcp6/TVBox1@main/live2.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
