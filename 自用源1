@@ -1,16 +1,15 @@
 {
-  "spider": "./jar/0606.jar;md5;488cfa45fed992feb2a2344586970d90",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;488cfa45fed992feb2a2344586970d90",
   "wallpaper": "稳定",
   "sites": [
    {
-            "key": "js豆瓣1",
-            "name": "导航",
-            "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
-            "ext": "./JS/js/douban.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+      "key": "豆豆",
+      "name": "导航",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
    {
       "key": "csp_FanYY",
