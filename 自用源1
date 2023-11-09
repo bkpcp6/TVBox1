@@ -23,12 +23,16 @@
     }, 
     {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
     {
-      "key": "阿里（APP）",
+      "key": "AppYs_南瓜",
       "name": "1080P┃首选2",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://aliys.cn:91/api.php/v1.vod"
-   },
+      "playerType": 2,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+    },
     {
       "key": "火狐",
       "name": "1080P┃首选3",
@@ -102,20 +106,16 @@
       "quickSearch": 1,
       "changeable": 0
     },
-   {
-      "key": "AppYs_南瓜",
-      "name": "1080P┃备选6",
+  {
+      "key": "阿里（APP）",
+      "name": "1080P┃备选5",
       "type": 3,
-      "playerType": 2,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-    },
+      "api": "csp_AppYsV2",
+      "ext": "http://aliys.cn:91/api.php/v1.vod"
+   },
      {
       "key": "龟龟",
-      "name": "1080P┃备选7",
+      "name": "1080P┃备选6",
       "type": 3,
       "changeable": 1,
       "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -137,7 +137,7 @@
     },
     {
       "key": "达人",
-      "name": "1080P┃备选8",
+      "name": "1080P┃备选7",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -148,7 +148,7 @@
     },
     {
       "key": "freeok",
-      "name": "1080P┃备选9",
+      "name": "1080P┃备选8",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -168,7 +168,7 @@
     },
     {
       "key": "黑狐",
-      "name": "1080P┃备选10",
+      "name": "1080P┃备选9",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
