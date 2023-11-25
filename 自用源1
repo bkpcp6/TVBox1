@@ -21,7 +21,7 @@
       "filterable": 1,
       "ext": "./token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     }, 
-    {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy2.min.js","ext": "./JS/js/荐片.js"},
+    {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
     {
       "key": "AppYs_南瓜",
       "name": "1080P┃首选2",
