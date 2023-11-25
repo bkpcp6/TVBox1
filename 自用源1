@@ -127,12 +127,15 @@
       "changeable": 0
     },
   {
-      "key": "阿里（APP）",
+      "key": "影探VIP",
       "name": "1080P┃备选5",
       "type": 3,
       "api": "csp_AppYsV2",
-      "ext": "http://aliys.cn:91/api.php/v1.vod"
-   },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+    },
      {
       "key": "龟龟",
       "name": "1080P┃备选6",
