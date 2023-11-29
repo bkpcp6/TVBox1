@@ -376,6 +376,29 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 备用,#genre#
+CCTV1综合,https://php.61073736.repl.co/sxg.php?id=CCTV-1H265_4000
+CCTV2财经,https://php.61073736.repl.co/sxg.php?id=CCTV-2H265_4000
+CCTV3综艺,https://php.61073736.repl.co/sxg.php?id=CCTV-3H265_4000
+CCTV4中文国际,https://php.61073736.repl.co/sxg.php?id=CCTV-4H265_4000
+CCTV5体育,https://php.61073736.repl.co/sxg.php?id=CCTV-5H265_4000
+CCTV5+,https://php.61073736.repl.co/sxg.php?id=CCTV-5plusH265_4000
+CCTV6电影,https://php.61073736.repl.co/sxg.php?id=CCTV-6H265_4000
+CCTV7国防军事,https://php.61073736.repl.co/sxg.php?id=CCTV-7H265_4000
+CCTV8电视剧,https://php.61073736.repl.co/sxg.php?id=CCTV-8H265_4000
+CCTV9纪录,https://php.61073736.repl.co/sxg.php?id=CCTV-9H265_4000
+CCTV10科教,https://php.61073736.repl.co/sxg.php?id=CCTV-10H265_4000
+CCTV11戏曲,https://php.61073736.repl.co/sxg.php?id=CCTV-11-H265_4000
+CCTV12社会与法,https://php.61073736.repl.co/sxg.php?id=CCTV-12H265_4000
+CCTV13新闻,https://php.61073736.repl.co/sxg.php?id=CCTV-xw_4000
+CCTV14少儿,https://php.61073736.repl.co/sxg.php?id=CCTV-14H265_4000
+CCTV15音乐,https://php.61073736.repl.co/sxg.php?id=CCTV-15-yyH265_4000
+CCTV16奥林匹克,https://php.61073736.repl.co/sxg.php?id=CCTV-16_4000
+CCTV16(4K),https://php.61073736.repl.co/sxg.php?id=CCTV-16-4K_8000
+CCTV17农业农村,https://php.61073736.repl.co/sxg.php?id=CCTV-17_4000
+CCTV4K,https://php.61073736.repl.co/sxg.php?id=ys4Kcq_2000
+超高清电影,https://php.61073736.repl.co/sxg.php?id=emdy4k_8000
+欢笑剧场,https://php.61073736.repl.co/sxg.php?id=hxjc-4k_8000
+
 CCTV1综合,https://php.61073736.repl.co/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,https://php.61073736.repl.co/bestv.php?id=cctv2hd8m/8000000
 CCTV3综艺,https://php.61073736.repl.co/bestv.php?id=cctv38m/8000000
@@ -398,26 +421,6 @@ CCTV16(4K),https://php.61073736.repl.co/bestv.php?id=cctv16hd4k/15000000
 CCTV4K,https://php.61073736.repl.co/bestv.php?id=cctv4k/15000000
 欢笑剧场,https://php.61073736.repl.co/bestv.php?id=hxjc4k/15000000
 
-CCTV1综合,https://php.61073736.repl.co/sxg.php?id=CCTV-1H265_4000
-CCTV2财经,https://php.61073736.repl.co/sxg.php?id=CCTV-2H265_4000
-CCTV3综艺,https://php.61073736.repl.co/sxg.php?id=CCTV-3H265_4000
-CCTV4中文国际,https://php.61073736.repl.co/sxg.php?id=CCTV-4H265_4000
-CCTV5体育,https://php.61073736.repl.co/sxg.php?id=CCTV-5H265_4000
-CCTV5+,https://php.61073736.repl.co/sxg.php?id=CCTV-5plusH265_4000
-CCTV6电影,https://php.61073736.repl.co/sxg.php?id=CCTV-6H265_4000
-CCTV7国防军事,https://php.61073736.repl.co/sxg.php?id=CCTV-7H265_4000
-CCTV8电视剧,https://php.61073736.repl.co/sxg.php?id=CCTV-8H265_4000
-CCTV9纪录,https://php.61073736.repl.co/sxg.php?id=CCTV-9H265_4000
-CCTV10科教,https://php.61073736.repl.co/sxg.php?id=CCTV-10H265_4000
-CCTV11戏曲,https://php.61073736.repl.co/sxg.php?id=CCTV-11-H265_4000
-CCTV12社会与法,https://php.61073736.repl.co/sxg.php?id=CCTV-12H265_4000
-CCTV13新闻,https://php.61073736.repl.co/sxg.php?id=CCTV-xw_4000
-CCTV14少儿,https://php.61073736.repl.co/sxg.php?id=CCTV-14H265_4000
-CCTV15音乐,https://php.61073736.repl.co/sxg.php?id=CCTV-15-yyH265_4000
-CCTV16奥林匹克,https://php.61073736.repl.co/sxg.php?id=CCTV-16_4000
-CCTV16(4K),https://php.61073736.repl.co/sxg.php?id=CCTV-16-4K_8000
-CCTV17农业农村,https://php.61073736.repl.co/sxg.php?id=CCTV-17_4000
-CCTV4K,https://php.61073736.repl.co/sxg.php?id=ys4Kcq_2000
 
 CCTV4K,https://php.61073736.repl.co/cqyx.php?id=CCTV4K
 CCTV1综合,https://php.61073736.repl.co/cqyx.php?id=cctv1HD
@@ -441,7 +444,6 @@ CCTV17农业农村,https://php.61073736.repl.co/cqyx.php?id=cctv17HD
 CGTN,https://php.61073736.repl.co/cqyx.php?id=cgtnSD
 CETV1,https://php.61073736.repl.co/cqyx.php?id=cetv-1SD
 CETV4,https://php.61073736.repl.co/cqyx.php?id=cetv-4SD
-
 
 江苏卫视,https://php.61073736.repl.co/sxg.php?id=jswsH265_4000
 湖南卫视,https://php.61073736.repl.co/sxg.php?id=hnwsH265_4000
