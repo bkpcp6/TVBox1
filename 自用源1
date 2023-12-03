@@ -31,17 +31,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/czspp.js"
     },
-    {
-      "key": "js_荐片",
-      "name": "1080P┃首选1",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
     {
       "key": "AppYs_南瓜",
       "name": "1080P┃首选2",
