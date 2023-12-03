@@ -22,14 +22,15 @@
       "ext": "./token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     }, 
  {
-      "key": "js_czsapp",
+      "key": "Czsapp",
       "name": "1080P┃首选",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "csp_Czsapp",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/czspp.js"
+      "changeable": 1,
+      "ext": "https://czz9.com/"
     },
     {"key": "磁力","name": "1080P┃首选1","type": 3,"playerType": "1","api": "./JS/lib/drpy.min.js","ext": "./JS/js/荐片.js"},
     {
