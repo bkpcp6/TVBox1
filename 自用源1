@@ -132,7 +132,7 @@
       "name": "1080P┃备选6",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -157,7 +157,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
     },
     {
@@ -166,7 +166,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": {
         "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "最新热榜&今日更新&FREE电影&FREE剧集&FREE动漫&FREE综艺",
@@ -187,7 +187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "playerType": "2",
       "api": "csp_XBPQ",
       "ext": {
