@@ -125,7 +125,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
+      "jar":"./jar/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04"
     },
      {
       "key": "龟龟",
