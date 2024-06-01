@@ -152,14 +152,14 @@ key=0b292c335e5837e947f9409c59228f3e6
 
 
 江苏综合,#genre#
-江苏城市,http://cdn.u55u.cn/migu.php?id=jscs
-江苏综艺,http://cdn.u55u.cn/migu.php?id=jszy
-江苏影视,http://cdn.u55u.cn/migu.php?id=jsys
-江苏新闻,http://cdn.u55u.cn/migu.php?id=jsxw
-江苏国际,http://cdn.u55u.cn/migu.php?id=jsgj
-江苏教育,http://cdn.u55u.cn/migu.php?id=jsjy
-江苏体育休闲,http://cdn.u55u.cn/migu.php?id=jstyxx
-优漫卡通,http://cdn.u55u.cn/migu.php?id=ymkt
+江苏城市,https://live.bkpcp.top/migu3.php?id=jscs
+江苏综艺,https://live.bkpcp.top/migu3.php?id=jszy
+江苏影视,https://live.bkpcp.top/migu3.php?id=jsys
+江苏新闻,https://live.bkpcp.top/migu3.php?id=jsxw
+江苏国际,https://live.bkpcp.top/migu3.php?id=jsgj
+江苏教育,https://live.bkpcp.top/migu3.php?id=jsjy
+江苏体育休闲,https://live.bkpcp.top/migu3.php?id=jstyxx
+优漫卡通,https://live.bkpcp.top/migu3.php?id=ymkt
 
 江苏卫视,https://live.bkpcp.top/jsdf.php?id=jsws
 江苏新闻,https://live.bkpcp.top/jsdf.php?id=jsgg
