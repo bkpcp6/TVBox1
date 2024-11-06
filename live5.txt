@@ -175,37 +175,7 @@ CGTN ,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
 纪实人文,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
 1905国内电影,https://live.bkpcp.top/1905.php?id=1905b
 1905环球经典,https://live.bkpcp.top/1905.php?id=1905a
-凤凰中文,http://43.141.130.51/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://43.141.130.51/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-凤凰中文,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文,http://cdn.swes.cn:8089/udp/239.93.0.162:2192
-凤凰资讯,http://cdn.swes.cn:8089/udp/239.93.0.118:2191
-凤凰中文,http://cdn.swes.cn:8089/udp/239.93.1.9:2192
-凤凰资讯,http://cdn.swes.cn:8089/udp/239.93.1.4:2191
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://lu1.cc/a/play/php/gudou.php?id=fct
-翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h01
-翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
-翡翠台,http://haoren.csjy.cfd/dl/haoren.php?id=6
-翡翠台,http://113.117.74.10:8081/hls/67/index.m3u8
 
 
 
@@ -245,195 +215,132 @@ CGTN ,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
 
 
 其它频道,#genre#
-CETV-1,http://cntv.lat/tv/live.php?auth=231110&id=cetv-1SD
-CETV-4,http://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
-早期教育,http://cntv.lat/tv/live.php?auth=231110&id=zaojiaoHD
-欢笑剧场 4K,http://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
-生活时尚,http://cntv.lat/tv/live.php?auth=231110&id=shenghuo
-百姓健康,http://cntv.lat/tv/live.php?auth=231110&id=jiankangSD
-快乐垂钓,http://cntv.lat/tv/live.php?auth=231110&id=klcdHD
-都市剧场,http://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
-动漫秀场,http://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
-魅力足球,http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
-求索纪录,http://cntv.lat/tv/live.php?auth=231110&id=qsjlHD
-游戏风云,http://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
-东方财经,http://cntv.lat/tv/live.php?auth=231110&id=dfcj
-证券服务,http://cntv.lat/tv/live.php?auth=231110&id=jiazheng
-书画,http://cntv.lat/tv/live.php?auth=231110&id=shuhua
-新动漫,http://cntv.lat/tv/live.php?auth=231110&id=dongman
-国学频道,http://cntv.lat/tv/live.php?auth=231110&id=guoxue
-优优宝贝,http://cntv.lat/tv/live.php?auth=231110&id=youxi
-中华特产,http://cntv.lat/tv/live.php?auth=231110&id=techan
-环球奇观,http://cntv.lat/tv/live.php?auth=231110&id=car
-生态环境,http://cntv.lat/tv/live.php?auth=231110&id=shengtai
-四海钓鱼,http://cntv.lat/tv/live.php?auth=231110&id=diaoyu
-车迷,http://cntv.lat/tv/live.php?auth=231110&id=doxtv
-法治天地,http://cntv.lat/tv/live.php?auth=231110&id=fazhi
-金色学堂,http://cntv.lat/tv/live.php?auth=231110&id=jinse
-收藏天下,http://cntv.lat/tv/live.php?auth=231110&id=soucang
-财富天下,http://cntv.lat/tv/live.php?auth=231110&id=caifu
-天元围棋,http://cntv.lat/tv/live.php?auth=231110&id=weiqi
-先锋乒羽,http://cntv.lat/tv/live.php?auth=231110&id=xianfeng
-环球旅游,http://cntv.lat/tv/live.php?auth=231110&id=huanqiulvyou
-摄影频道,http://cntv.lat/tv/live.php?auth=231110&id=sheying
-风云剧场,http://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
-第一剧场,http://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
-女性时尚,http://cntv.lat/tv/live.php?auth=231110&id=nvxing
-怀旧剧场,http://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
-风云音乐,http://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
-央视台球,http://cntv.lat/tv/live.php?auth=231110&id=ystqHD
-风云足球,http://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
-央视文化精品,http://cntv.lat/tv/live.php?auth=231110&id=yswhHD
-高尔夫网球,http://cntv.lat/tv/live.php?auth=231110&id=golfHD
-兵器科技,http://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
-发现之旅,http://cntv.lat/tv/live.php?auth=231110&id=faxian
-中学生,http://cntv.lat/tv/live.php?auth=231110&id=qicai
-老故事,http://cntv.lat/tv/live.php?auth=231110&id=gushi
-CHC动作电影,http://cntv.lat/tv/live.php?auth=231110&id=chcdzdyHD
-CHC家庭影院,http://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
-CHC高清电影,http://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
-凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=202311030915
-明珠台,https://pi.0472.org/tv/mzt.php?auth=202311030915
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=202311030915
-星空卫视,https://pi.0472.org/tv/startv.php?auth=202311030915
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=202311030915
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-其它,#genre#
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港J2频道,http://r.jdshipin.com/Nr5jq
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+
 
 
 
 
 堆堆港剧,#genre#
-埋堆堆1,https://live.metshop.top/huya/23749096
+埋堆堆1,http://cfss.cc/cdn/hy/23749096
 
-埋堆堆2,https://live.metshop.top/huya/23735126
+埋堆堆2,http://cfss.cc/cdn/hy/23735126
 
-埋堆堆3,https://live.metshop.top/huya/23865152
+埋堆堆3,http://cfss.cc/cdn/hy/23865152
 
-埋堆堆4,https://live.metshop.top/huya/23903196
+埋堆堆4,http://cfss.cc/cdn/hy/23903196
 
-埋堆堆5,https://live.metshop.top/huya/23740156
+埋堆堆5,http://cfss.cc/cdn/hy/23740156
 
-埋堆堆6,https://live.metshop.top/huya/23728660
+埋堆堆6,http://cfss.cc/cdn/hy/23728660
 
-埋堆堆7,https://live.metshop.top/huya/23735153
+埋堆堆7,http://cfss.cc/cdn/hy/23735153
 
-埋堆堆8,https://live.metshop.top/huya/23865058
+埋堆堆8,http://cfss.cc/cdn/hy/23865058
 
-埋堆堆9,https://live.metshop.top/huya/23734183
+埋堆堆9,http://cfss.cc/cdn/hy/23734183
 
-埋堆堆10,https://live.metshop.top/huya/23749068
+埋堆堆10,http://cfss.cc/cdn/hy/23749068
 
-埋堆堆11,https://live.metshop.top/huya/23865036
+埋堆堆11,http://cfss.cc/cdn/hy/23865036
 
-埋堆堆12,https://live.metshop.top/huya/23740162
+埋堆堆12,http://cfss.cc/cdn/hy/23740162
 
-埋堆堆13,https://live.metshop.top/huya/23829474
+埋堆堆13,http://cfss.cc/cdn/hy/23829474
 
-埋堆堆14,https://live.metshop.top/huya/23863833
+埋堆堆14,http://cfss.cc/cdn/hy/23863833
 
-埋堆堆15,https://live.metshop.top/huya/23903106
+埋堆堆15,http://cfss.cc/cdn/hy/23903106
 
-埋堆堆16,https://live.metshop.top/huya/23865025
+埋堆堆16,http://cfss.cc/cdn/hy/23865025
 
-埋堆堆17,https://live.metshop.top/huya/23728689
+埋堆堆17,http://cfss.cc/cdn/hy/23728689
 
-埋堆堆18,https://live.metshop.top/huya/23824171
+埋堆堆18,http://cfss.cc/cdn/hy/23824171
 
-埋堆堆19,https://live.metshop.top/huya/23860057
+埋堆堆19,http://cfss.cc/cdn/hy/23860057
 
-埋堆堆20,https://live.metshop.top/huya/23865072
+埋堆堆20,http://cfss.cc/cdn/hy/23865072
 
-埋堆堆21,https://live.metshop.top/huya/23734176
+埋堆堆21,http://cfss.cc/cdn/hy/23734176
 
-埋堆堆22,https://live.metshop.top/huya/23728651
+埋堆堆22,http://cfss.cc/cdn/hy/23728651
 
-埋堆堆23,https://live.metshop.top/huya/23734246
+埋堆堆23,http://cfss.cc/cdn/hy/23734246
 
-埋堆堆24,https://live.metshop.top/huya/23865179
+埋堆堆24,http://cfss.cc/cdn/hy/23865179
 
-埋堆堆25,https://live.metshop.top/huya/23734196
+埋堆堆25,http://cfss.cc/cdn/hy/23734196
 
-埋堆堆26,https://live.metshop.top/huya/23734211
+埋堆堆26,http://cfss.cc/cdn/hy/23734211
 
-埋堆堆27,https://live.metshop.top/huya/23865086
+埋堆堆27,http://cfss.cc/cdn/hy/23865086
 
-埋堆堆28,https://live.metshop.top/huya/23863796
+埋堆堆28,http://cfss.cc/cdn/hy/23863796
 
-埋堆堆29,https://live.metshop.top/huya/23863822
+埋堆堆29,http://cfss.cc/cdn/hy/23863822
 
-埋堆堆30,https://live.metshop.top/huya/23749083
+埋堆堆30,http://cfss.cc/cdn/hy/23749083
 
-埋堆堆31,https://live.metshop.top/huya/23734243
+埋堆堆31,http://cfss.cc/cdn/hy/23734243
 
-埋堆堆32,https://live.metshop.top/huya/23864480
+埋堆堆32,http://cfss.cc/cdn/hy/23864480
 
-埋堆堆33,https://live.metshop.top/huya/23746486
+埋堆堆33,http://cfss.cc/cdn/hy/23746486
 
-埋堆堆34,https://live.metshop.top/huya/23860049
+埋堆堆34,http://cfss.cc/cdn/hy/23860049
 
-埋堆堆35,https://live.metshop.top/huya/23749074
+埋堆堆35,http://cfss.cc/cdn/hy/23749074
 
-埋堆堆36,https://live.metshop.top/huya/23863882
+埋堆堆36,http://cfss.cc/cdn/hy/23863882
 
-埋堆堆37,https://live.metshop.top/huya/23863778
+埋堆堆37,http://cfss.cc/cdn/hy/23863778
 
-埋堆堆38,https://live.metshop.top/huya/23824164
+埋堆堆38,http://cfss.cc/cdn/hy/23824164
 
-埋堆堆39,https://live.metshop.top/huya/23829537
+埋堆堆39,http://cfss.cc/cdn/hy/23829537
 
-埋堆堆40,https://live.metshop.top/huya/23863809
+埋堆堆40,http://cfss.cc/cdn/hy/23863809
 
-埋堆堆41,https://live.metshop.top/huya/23865096
+埋堆堆41,http://cfss.cc/cdn/hy/23865096
 
-埋堆堆42,https://live.metshop.top/huya/23863804
+埋堆堆42,http://cfss.cc/cdn/hy/23863804
 
-埋堆堆43,https://live.metshop.top/huya/23728630
+埋堆堆43,http://cfss.cc/cdn/hy/23728630
 
-埋堆堆44,https://live.metshop.top/huya/23863895
+埋堆堆44,http://cfss.cc/cdn/hy/23863895
 
-埋堆堆45,https://live.metshop.top/huya/23863787
+埋堆堆45,http://cfss.cc/cdn/hy/23863787
 
-埋堆堆46,https://live.metshop.top/huya/23728637
+埋堆堆46,http://cfss.cc/cdn/hy/23728637
 
-埋堆堆47,https://live.metshop.top/huya/23865142
+埋堆堆47,http://cfss.cc/cdn/hy/23865142
 
-埋堆堆48,https://live.metshop.top/huya/23903085
+埋堆堆48,http://cfss.cc/cdn/hy/23903085
 
-埋堆堆49,https://live.metshop.top/huya/23903183
+埋堆堆49,http://cfss.cc/cdn/hy/23903183
 
-埋堆堆50,https://live.metshop.top/huya/23728647
+埋堆堆50,http://cfss.cc/cdn/hy/23728647
 
-埋堆堆51,https://live.metshop.top/huya/23746691
+埋堆堆51,http://cfss.cc/cdn/hy/23746691
 
-埋堆堆52,https://live.metshop.top/huya/23829447
+埋堆堆52,http://cfss.cc/cdn/hy/23829447
 
-埋堆堆53,https://live.metshop.top/huya/23728693
+埋堆堆53,http://cfss.cc/cdn/hy/23728693
 
-埋堆堆54,https://live.metshop.top/huya/23903130
+埋堆堆54,http://cfss.cc/cdn/hy/23903130
 
-埋堆堆55,https://live.metshop.top/huya/23734223
+埋堆堆55,http://cfss.cc/cdn/hy/23734223
 
-埋堆堆56,https://live.metshop.top/huya/23734169
+埋堆堆56,http://cfss.cc/cdn/hy/23734169
 
-埋堆堆57,https://live.metshop.top/huya/23865124
+埋堆堆57,http://cfss.cc/cdn/hy/23865124
 
-埋堆堆58,https://live.metshop.top/huya/23865186
+埋堆堆58,http://cfss.cc/cdn/hy/23865186
 
-埋堆堆59,https://live.metshop.top/huya/23902225
+埋堆堆59,http://cfss.cc/cdn/hy/23902225
 
-埋堆堆60,https://live.metshop.top/huya/23903164
+埋堆堆60,http://cfss.cc/cdn/hy/23903164
 
-埋堆堆61,https://live.metshop.top/huya/23728674
+埋堆堆61,http://cfss.cc/cdn/hy/23728674
