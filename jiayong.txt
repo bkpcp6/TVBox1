@@ -138,7 +138,6 @@ CCTV-5+体育赛事,http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.
 安多卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226271/index.m3u8?servicetype=1
 延边卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226273/index.m3u8?servicetype=1
 兵团卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226311/index.m3u8?servicetype=1
-三沙卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226315/index.m3u8?servicetype=1
 欢乐剧场,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226049/index.m3u8?servicetype=1
 金鹰纪实,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1
 卡酷少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
@@ -182,7 +181,6 @@ CCTV-5+体育赛事,http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.
 大湾区卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8
 深圳卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225725/index.m3u8
 厦门卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225823/index.m3u8
-三沙卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226315/index.m3u8
 延边卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226273/index.m3u8
 康巴卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226270/index.m3u8
 安多卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226271/index.m3u8
