@@ -1,4 +1,22 @@
 央视频道,#genre#
+CCTV-1综合,http://171.105.39.110:6060/bestv_live/cctv1hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-2财经,http://171.105.39.110:6060/bestv_live/cctv2hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-3综艺,http://171.105.39.110:6060/bestv_live/cctv38m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-4中文国际,http://171.105.39.110:6060/bestv_live/cctv4hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-5体育,http://171.105.39.110:6060/bestv_live/cctv58m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-5+体育赛事p,http://171.105.39.110:6060/bestv_live/cctv5phd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-6电影,http://171.105.39.110:6060/bestv_live/cctv6hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-7国防军事,http://171.105.39.110:6060/bestv_live/cctv7hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-8电视剧,http://171.105.39.110:6060/bestv_live/cctv8hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-9纪录,http://171.105.39.110:6060/bestv_live/cctv9hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-10科教,http://171.105.39.110:6060/bestv_live/cctv10hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-11戏曲,http://171.105.39.110:6060/bestv_live/cctv11hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-12社会与法,http://171.105.39.110:6060/bestv_live/cctv12hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-13新闻,http://171.105.39.110:6060/bestv_live/cctv13xwhd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-14 少儿,http://171.105.39.110:6060/bestv_live/cctv14sehd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-15音乐,http://171.105.39.110:6060/bestv_live/cctv15hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-16奥运,http://171.105.39.110:6060/bestv_live/cctv16hd8m/1.m3u8?Playtype=1&m3u8_level=2
+CCTV-17农业农村,http://171.105.39.110:6060/bestv_live/cctv17hd8m/1.m3u8?Playtype=1&m3u8_level=2
 CCTV-1 综合,http://171.105.39.110:6060/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?Playtype=1&m3u8_level=2
 CCTV-2 财经,http://171.105.39.110:6060/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8?Playtype=1&m3u8_level=2
 CCTV-3 综艺,http://171.105.39.110:6060/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8?Playtype=1&m3u8_level=2
@@ -34,6 +52,45 @@ CGTN俄罗斯语,http://180.140.55.101:6610/gitv_live/G_CGTN-PYCCNN/G_CGTN-PYCCN
 
 
 卫视频道,#genre#
+中国教育4,http://171.105.39.110:6060/bestv_live/zgjy4hd8m/1.m3u8?Playtype=1&m3u8_level=2
+广西卫视,http://171.105.39.110:6060/bestv_live/gxwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+广东卫视,http://171.105.39.110:6060/bestv_live/gdwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+深圳卫视,http://171.105.39.110:6060/bestv_live/szwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+海南卫视,http://171.105.39.110:6060/bestv_live/hainanwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+三沙卫视,http://171.105.39.110:6060/bestv_live/sswshd8m/1.m3u8?Playtype=1&m3u8_level=2
+云南卫视,http://171.105.39.110:6060/bestv_live/ynwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+贵州卫视,http://171.105.39.110:6060/bestv_live/gzwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+东南卫视,http://171.105.39.110:6060/bestv_live/dnwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+江西卫视,http://171.105.39.110:6060/bestv_live/jxws8m/1.m3u8?Playtype=1&m3u8_level=2
+安徽卫视,http://171.105.39.110:6060/bestv_live/ahwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+湖南卫视,http://171.105.39.110:6060/bestv_live/hunanwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+湖北卫视,http://171.105.39.110:6060/bestv_live/hubeiws8m/1.m3u8?Playtype=1&m3u8_level=2
+河南卫视,http://171.105.39.110:6060/bestv_live/hnwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+河北卫视,http://171.105.39.110:6060/bestv_live/hbwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+重庆卫视,http://171.105.39.110:6060/bestv_live/cqws8m/1.m3u8?Playtype=1&m3u8_level=2
+四川卫视,http://171.105.39.110:6060/bestv_live/scwshd/1.m3u8?Playtype=1&m3u8_level=2
+浙江卫视,http://171.105.39.110:6060/bestv_live/zjwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+江苏卫视,http://171.105.39.110:6060/bestv_live/jswshd8m/1.m3u8?Playtype=1&m3u8_level=2
+东方卫视,http://171.105.39.110:6060/bestv_live/dfwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+山东卫视,http://171.105.39.110:6060/bestv_live/sdws8m/1.m3u8?Playtype=1&m3u8_level=2
+北京卫视,http://171.105.39.110:6060/bestv_live/bjwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+天津卫视,http://171.105.39.110:6060/bestv_live/tjwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+辽宁卫视,http://171.105.39.110:6060/bestv_live/lnwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+吉林卫视,http://171.105.39.110:6060/bestv_live/jlwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+黑龙江卫视,http://171.105.39.110:6060/bestv_live/hljwshd8m/1.m3u8?Playtype=1&m3u8_level=2
+甘肃卫视,http://171.105.39.110:6060/bestv_live/gswshd8m/1.m3u8?Playtype=1&m3u8_level=2
+卡酷少儿,http://171.105.39.110:6060/bestv_live/kkse8m/1.m3u8?Playtype=1&m3u8_level=2
+哈哈炫动,http://171.105.39.110:6060/bestv_live/hhxd8m/1.m3u8?Playtype=1&m3u8_level=2
+茶频道,http://171.105.39.110:6060/bestv_live/cpdhdavs8m/1.m3u8?Playtype=1&m3u8_level=2
+快乐垂钓,http://171.105.39.110:6060/bestv_live/klcd8m/1.m3u8?Playtype=1&m3u8_level=2
+都市剧场,http://171.105.39.110:6060/bestv_live/dsjc8m/1.m3u8?Playtype=1&m3u8_level=2
+动漫秀场,http://171.105.39.110:6060/bestv_live/dmxc8m/1.m3u8?Playtype=1&m3u8_level=2
+游戏风云,http://171.105.39.110:6060/bestv_live/yxfy8m/1.m3u8?Playtype=1&m3u8_level=2
+法治天地,http://171.105.39.110:6060/bestv_live/fztd8m/1.m3u8?Playtype=1&m3u8_level=2
+生活时尚,http://171.105.39.110:6060/bestv_live/shss8m/1.m3u8?Playtype=1&m3u8_level=2
+东方财经,http://171.105.39.110:6060/bestv_live/dfcjhd8m/1.m3u8?Playtype=1&m3u8_level=2
+金鹰纪实,http://171.105.39.110:6060/bestv_live/jyjs8m/1.m3u8?Playtype=1&m3u8_level=2
+
 湖南卫视,http://171.105.39.110:6060/gitv_live/G_HUNAN-HD-265-8M/G_HUNAN-HD-265-8M.m3u8?Playtype=1&m3u8_level=2
 浙江卫视,http://171.105.39.110:6060/gitv_live/G_ZHEJIANG-HD-265-8M/G_ZHEJIANG-HD-265-8M.m3u8?Playtype=1&m3u8_level=2
 安徽卫视,http://171.105.39.110:6060/gitv_live/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M.m3u8?Playtype=1&m3u8_level=2
