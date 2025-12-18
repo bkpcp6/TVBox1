@@ -69,7 +69,7 @@ CCTV-5+体育赛事,http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.
 南宁文旅生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8?zguangxd#http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8?zguangxd#http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1
-南宁影视娱乐,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1
+南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1
 南宁文旅生活,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8?servicetype=1
 南宁公共,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
 
