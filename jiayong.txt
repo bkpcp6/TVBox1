@@ -75,14 +75,14 @@ CCTV-5+体育赛事,http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.
 
 
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
-广西新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1
-广西新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?
-广西综艺旅游,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8?servicetype=1
-广西综艺旅游,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8?
-广西都市,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
-广西都市,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?
-广西影视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1
-广西影视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?
+广西新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226407/index.m3u8?servicetype=1
+广西新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226407/index.m3u8?
+广西综艺旅游,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226409/index.m3u8?servicetype=1
+广西综艺旅游,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226409/index.m3u8?
+广西都市,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226335/index.m3u8?servicetype=1
+广西都市,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226335/index.m3u8?
+广西影视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226336/index.m3u8?servicetype=1
+广西影视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226336/index.m3u8?
 北京卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
 广东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1
 山东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1
