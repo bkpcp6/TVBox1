@@ -263,7 +263,6 @@ CETV4,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225723/index.m3u8
 凤凰卫视中文台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视香港台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8
 凤凰卫视中文台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8
 凤凰卫视资讯台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8
