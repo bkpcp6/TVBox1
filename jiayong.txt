@@ -18,6 +18,9 @@ CCTV-14少儿,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/inde
 CCTV-15音乐,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1
 CCTV-16奥运,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1
 CCTV-17农业农村,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
+南宁新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226341/index.m3u8?servicetype=1
+南宁文旅生活,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226344/index.m3u8?servicetype=1
+南宁影视娱乐,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226337/index.m3u8?servicetype=1
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8?zguangxd#http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁文旅生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8?zguangxd#http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
@@ -137,9 +140,6 @@ CETV4,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225723/index.m3u8
 贺州综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226352/index.m3u8?servicetype=1
 河池新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226356/index.m3u8?servicetype=1
 玉林新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226354/index.m3u8?servicetype=1
-南宁新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226341/index.m3u8?servicetype=1
-南宁文旅生活,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226344/index.m3u8?servicetype=1
-南宁影视娱乐,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226337/index.m3u8?servicetype=1
 北海新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226346/index.m3u8?servicetype=1
 北海经济科教,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226431/index.m3u8?servicetype=1
 百色综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226353/index.m3u8?servicetype=1
