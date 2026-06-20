@@ -1,3 +1,4 @@
+全部,#genre#
 CCTV-1综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
 CCTV-2财经,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
 CCTV-3综艺,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1
